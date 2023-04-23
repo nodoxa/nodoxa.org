@@ -1,0 +1,24 @@
+{{ define "body_classes" }}page-contact{{ end }}
+
+{{ define "main" }}
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-7 col-lg-7 order-2 order-md-1">
+      <div class="service service-single">
+        <h1 class="title">{{.Title}}</h1>
+        {{ partial "call.html" (dict "site" .Site "context" . "show_button" "false") }}
+        <div class="content mt-4">{{.Content}}</div>
+      </div>
+    </div>
+    {{ if .Params.intro_image }}
+    <div class="col-12 col-md-5 col-lg-5 order-1 order-md-2 position-relative">
+      <img
+        alt={{ .Title }}
+        class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
+        src="{{ .Params.intro_image | relURL }}" />
+    </div>
+    {{ end }}
+  </div>
+</div>
+
+{{ end }}

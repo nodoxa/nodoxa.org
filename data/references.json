@@ -1,0 +1,27 @@
+[
+    {
+        "image": "images/references/fes.svg",
+        "title": "Friedrich-Ebert-Stiftung",
+        "url": "https://fes.de"
+    },
+    {
+        "image": "images/references/ilo.png",
+        "title": "International Labour Organization",
+        "url": "https://www.ilo.org"
+    },
+    {
+        "image": "images/references/epri.png",
+        "title": "Economic Policy Research Institute",
+        "url": "http://epri.co.za"
+    },
+    {
+        "image": "images/references/sorbonne.png",
+        "title": "Sorbonne Université",
+        "url": "https://www.sorbonne-universite.fr"
+    },
+    {
+        "image": "images/references/natixis-interepargne.png",
+        "title": "Natixis Interépargne",
+        "url": "https://www.interepargne.natixis.com"
+    }
+]

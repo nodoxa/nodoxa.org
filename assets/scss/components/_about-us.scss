@@ -1,0 +1,32 @@
+.about-us-education {
+    float: left;
+    width: 32px;
+    margin: 10px 10px 0 0 !important;
+    filter: brightness(0) saturate(100%);
+}
+
+.about-us-language {
+    float: left;
+    width: 32px;
+    margin: 2px 10px 0 0 !important;
+    filter: brightness(0) saturate(100%);
+}
+
+.about-us-mail {
+    float: left;
+    width: 32px;
+    margin: 2px 10px 0 0 !important;
+    filter: brightness(0) saturate(100%);
+}
+
+.about-us-mail a, .about-us-mail a:link, .about-us-mail a:visited {
+    color: #5C5A5A;
+}
+
+.about-us-picture {
+    float: left;
+    width: 160px;
+    height: auto;
+    margin: 10px 10px 0 0 !important;
+    border-radius: 4px;
+}

@@ -1,0 +1,21 @@
+.contact {
+  input,
+  textarea {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    border-bottom: 2px solid $primary;
+    outline: none;
+    background: transparent;
+  }
+  button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: transparent;
+    color: $primary;
+    border: 2px solid $primary;
+    cursor: pointer;
+  }
+}
