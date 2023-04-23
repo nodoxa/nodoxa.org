@@ -1,7 +1,7 @@
 baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
-languageCode = "fr"
+languageCode = "en"
 title = "NoDoxa"
 
 [module]
