@@ -66,6 +66,11 @@ title = "NoDoxa"
     url = "/contact/"
     weight = 3
 
+  [[menu.main]]
+    name = "🇫🇷"
+    url = "https://www.nodoxa.fr"
+    weight = 4
+
   # Footer Menu
   [[menu.footer]]
     name = "Legal Notice"
