@@ -34,5 +34,5 @@ Animations and interventions in conferences, roundtables, and webinars on curren
 
 **Achievements:**
 
-* Capacity-building workshop on social protection : construction and animation of the social security section of the workshop - online and on-site. Audience: members of a government and central administration.
+* Capacity-building workshop on social protection: construction and animation of the social security section of the workshop - online and on-site. Audience: members of a government and central administration.
 * Interventions during seminars and web conferences on the theme of pension reform.
