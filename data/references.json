@@ -23,5 +23,10 @@
         "image": "images/references/natixis-interepargne.png",
         "title": "Natixis Interépargne",
         "url": "https://www.interepargne.natixis.com"
+    },
+    {
+        "image": "images/references/icpmnetwork.png",
+        "title": "International Centre for Pension Management",
+        "url": "https://www.icpmnetwork.com"
     }
 ]
