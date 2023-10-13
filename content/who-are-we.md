@@ -50,18 +50,6 @@ After her university studies in law, she initially joined the CNRS headquarters 
 
 <img src="../images/icons/icon-langues.svg" class="about-us-language"> French and English
 
-### Frédérique Nortier-Ribordy
-
-<img src="../images/pictures/frederique-nortier-ribordy.jpg" class="about-us-picture"> Frédérique Nortier-Ribordy is an economist specialising in pensions and social protection. Within the COR (Conseil d'Orientation des Retraites), she coordinates projection exercises and the annual report, and is responsible for steering monthly sessions and technical working groups on microsimulation models. She regularly intervenes with French and foreign institutional bodies to present the French retirement system.
-
-Since 2022, she has been a member of the editorial committee of the CNAV Retraite et Société review. She also teaches at the University of Paris I Panthéon-Sorbonne as part of the Master 2 "Cadres des organismes des secteurs sociaux", the AES degree, and the preparation for the EN3S competition for the ESOPS chair (Social Economy, Protection and Society).
-
-Frédérique Nortier-Ribordy previously spent 20 years as head of studies at Agirc-Arrco, where her work was very varied: economic studies, but also project manager for the design and implementation of individual retirement simulators (M@rel) and the decision support system for supplementary retirement.
-
-<img src="../images/icons/icon-diplome.svg" class="about-us-education"> DEA "Economic Situation and Prospects" from the University of Paris-Dauphine.
-
-<img src="../images/icons/icon-langues.svg" class="about-us-language"> French and English
-
 ### Joe-Anthony Keyrouz
 
 <img src="../images/pictures/joe-anthony-keyrouz.jpg" class="about-us-picture"> Joe-Anthony Keyrouz began his career in Italy at a strategy consulting firm. Based in Milan, he participated in restructuring and reorganisation projects, redesign and computerisation of processes, market analysis, and redefinition of strategy in the public sector, as well as in the telecommunications, medical diagnostics, and retail sectors.
