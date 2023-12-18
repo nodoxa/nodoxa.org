@@ -42,7 +42,7 @@
     <h2>References</h2>
     <div class="row justify-content-center">
       {{ range .Site.Data.references }}
-      <div class="col-12 col-md-6 col-lg-4 mb-2">
+      <div class="col-6 col-md-4 col-lg-3 mb-2">
         <a href="{{ .url }}" target="_blank" rel="noopener noreferrer"><img alt="{{ .title }} logo" src="{{ .image | relURL }}"/></a>
       </div>
       {{end}}

@@ -28,5 +28,15 @@
         "image": "images/references/icpmnetwork.png",
         "title": "International Centre for Pension Management",
         "url": "https://www.icpmnetwork.com"
+    },
+    {
+        "image": "images/references/en3s.png",
+        "title": "École nationale supérieure de Sécurité sociale",
+        "url": "https://en3s.fr"
+    },
+    {
+        "image": "images/references/icn-business-school-artem.png",
+        "title": "ICN Business School",
+        "url": "https://www.icn-artem.com/"
     }
 ]
